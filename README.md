@@ -1,2 +1,289 @@
-# vagas-act-digital-banco-de-talentos
-Observações: copiar o readme e responder para dentro da abertura da Issue.
+# Vagas para Act Digital via Banco de Talentos
+
+### Observações: copiar o readme e responder para dentro da abertura da [Issue](https://github.com/daniloopinheiro/vagas-act-digital-banco-de-talentos/issues).
+
+---
+
+Nome Completo:
+E-mail:
+Telefone:
+Linkedin:
+Principal Comp. Téc.
+
+- [ ] 1. Backend Java
+- [ ] 2. Backend .Net 
+- [ ] 3. Full Stack Java 
+- [ ] 4. Frontend Angular 
+- [ ] 5. Android 
+- [ ] 6. IOS Nativo   
+- [ ] 7. Full Stack .Net / Angular
+- [ ] 8. QA Funcional  
+- [ ] 9. Scrum Master   
+- [ ] 10. Tech Leader Java
+- [ ] 11. Arquiteto Java 
+- [ ] 12. Designer UX / UI
+- [ ] 13. Engenheiro de Dados 
+- [ ] 14. Full Stack .net / React 
+- [ ] 15. Full Stack Java / React 
+- [ ] 16. Mobile Hibrido - Flutter
+- [ ] 17. Full Stack Nodejs / Angular
+- [ ] 18. Full Stack Nodejs / React
+- [ ] 19. Frontend React
+- [ ] 20. Backend Nodejs 
+- [ ] 21. Agile Coach
+- [ ] 22. Product Owner
+- [ ] 23. Engenharia do Produto
+- [ ] 24. Engenharia do Processo
+- [ ] 25. Salesforce
+- [ ] 26. Infraestrutura
+- [ ] 27. Devops
+- [ ] 28. RPA
+- [ ] 29. VBA
+- [ ] 30. Analista de Dados - AD / BI
+- [ ] 31. QA Automatizado
+- [ ] 32. PHP
+- [ ] 33. Ruby
+- [ ] 34. Cobol
+- [ ] 35. Python
+- [ ] 36. Segurança da Informação
+- [ ] 37. Analista Funcional / Requisitos
+- [ ] 38. Mobile Híbrido - Ionic
+- [ ] 39. React Native
+- [ ] 40. Tech Leader .Net
+- [ ] 41. Tech Leader Mobile
+- [ ] 42. Tech Leader PHP
+- [ ] 43. Tech Leader React
+- [ ] 44. Tech Leader Angular
+- [ ] 45. Especialista de estratégia digital
+- [ ] 46. Mobile Híbrido - Xamarim
+- [ ] 47. Gerente de projetos
+- [ ] 48. PMO
+- [ ] 49.  Arquiteto Cloud AWS
+- [ ] 50. Arquiteto Cloud GCP
+- [ ] 51. Arquiteto Cloud Azure
+- [ ] 52. Engenheiro de dados GCP
+- [ ] 53. Sustentação/Suporte Java
+- [ ] 54. Sustentação/Suporte .Net
+- [ ] 55. Arquiteto .Net
+- [ ] 56. Arquiteto integrações
+- [ ] 57. Frontend (Javascript)
+- [ ] 58. Jira Developer
+- [ ] 59. Assistente Administrativo
+- [ ] 60. Cientista de dados
+- [ ] 61. DBA
+- [ ] 62. Sales
+- [ ] 63. Infra - Cloud
+- [ ] 64. Infra - Servidor
+- [ ] 65. Analista de Suporte
+- [ ] 66. Redes
+- [ ] 67. Analista SAP
+- [ ] 68. Vuejs
+- [ ] 69. Drupal
+- [ ] 70. Coordenador de Suporte
+- [ ] 71. Gerente de Serviços
+- [ ] 72. Coordenador de Infraestrutura
+- [ ] 73. Analista de Sistemas
+- [ ] 74. AngularJs  
+- [ ] 75. Mobile Híbrido - Flutter
+- [ ] 76. Arquiteto de Dados
+- [ ] 77. Tech Lead Node
+- [ ] 78. Administrador de Sistemas
+- [ ] 79. Especialista SRE
+- [ ] 80. Go Lang
+- [ ] 81. Analista de processos  
+- [ ] 82. Arquiteto Técnico  
+- [ ] 83. Arquiteto de Soluções
+- [ ] 84. Tech Leader Cloud
+- [ ] 85. DevSecOps
+- [ ] 86. Infra-Centro de Comando
+- [ ] 87. Tech Leader Segurança da Informação  
+- [ ] 88. Tech Leader DevSecOps
+- [ ] 89. FinOps
+- [ ] 90. Tech Leader Desenvolvimento
+- [ ] 91. Agile Master 07"  
+- [ ] 92. Analista de Negócios
+- [ ] 93. Elixir
+- [ ] 94. Magento
+- [ ] 95. Analista Administrativo
+- [ ] 96. Gerente de Negócios
+- [ ] 97. Analista Comercial
+- [ ] 98. Recrutamento e Seleção
+- [ ] 99. Governança de Tecnologia
+- [ ] 100. Especialista Sensedia
+- [ ] 101. Squad Leader
+- [ ] 103. Gerente de Tecnologia
+- [ ] 105. Gerente de Engenharia
+- [ ] 106. Analista PEGA  
+- [ ] 107. Analista de Telecom
+- [ ] 108. Arquiteto Mobile
+- [ ] 109. Delivery Manager
+- [ ] 110. Administrativo 11638"  
+- [ ] 1.000 Promp Engineer
+
+Principais Téc.
+
+- [ ] Cloud AWS 
+- [ ] Cloud Azure 
+- [ ] Cloud GCP 
+- [ ] Mensageria
+- [ ] SpringBoot 
+- [ ] JSF
+- [ ] Postman
+- [ ] Cypress8295"   
+- [ ] Banco de Dados Oracle8296"   
+- [ ] DataStage8297"   
+- [ ] Banco de Dados SQL8298"   
+- [ ] Terraform8299"   
+- [ ] WebFlux8300"   
+- [ ] JSF8301"   
+- [ ] Hibernate8302"   
+- [ ] Primefaces8303"   
+- [ ] JPA8304"   
+- [ ] Arquitetura Microsserviços 
+- [ ] Arquitetura MVVM
+- [ ] Arquitetura MVC
+- [ ] Ansible
+- [ ] Cucumber
+- [ ] Selenium
+- [ ] Swagger
+- [ ] Docker
+- [ ] Kubernetes
+- [ ] Jenkins  
+- [ ] PowerBI
+- [ ] ServiceNow
+- [ ] Grafana
+- [ ] Cloud Native
+- [ ] Banco MongoDB
+- [ ] Cassandra
+- [ ] CI/CD
+- [ ] Python
+- [ ] Java EE
+- [ ] Dynatrace
+- [ ] Web Analytics
+- [ ] Google Tag Manager
+- [ ] Big Data
+- [ ] ETL
+- [ ] Google Analytics
+- [ ] Pega
+- [ ] Linux
+- [ ] Unix
+- [ ] SwiftUI
+- [ ] Objective-C
+- [ ] Kotlin
+- [ ] Dart
+- [ ] MVVM-C
+- [ ] MVVM
+- [ ] MVI
+- [ ] XCTest
+- [ ] Clean Architecture
+- [ ] CocoaPods
+- [ ] Swift Package Manager (SPM)
+- [ ] Mockito
+- [ ] Expresso
+- [ ] Room
+- [ ] SharedPreferences
+- [ ] Jetpack Navigation
+- [ ] Kotlin Coroutines
+- [ ] BloC
+- [ ] Node Package Manager (NPM)
+- [ ] Yarn
+- [ ] Redux
+- [ ] React Navigation  
+- [ ] S.O.L.I.D 
+- [ ] JavaScript
+- [ ] TypeScript
+- [ ] Nextjs
+- [ ] Jest
+- [ ] Junit
+- [ ] Adobe
+- [ ] Figma
+- [ ] Cypress
+- [ ] Appium
+- [ ] Ruby
+- [ ] Swagger
+- [ ] Robot Framework
+- [ ] Miro   
+- [ ] PowerBI   
+- [ ] Hotjar  
+- [ ] FigJam   
+- [ ] Google analytics
+- [ ] Designer thinking
+- [ ] JMeter
+- [ ] Jenkins
+- [ ] Net core
+- [ ] Frameworks
+- [ ] .Net framework
+- [ ] Windows Forms.
+- [ ] Visual Basic
+- [ ] Asp.Net
+- [ ] Entity Framework
+- [ ] Cassandra
+- [ ] Python
+- [ ] ODI
+- [ ] Spark
+- [ ] Pentaho
+- [ ] Talend
+- [ ] Power Center
+- [ ] Data Fusion
+- [ ] Dataflow
+- [ ] Dataproc
+- [ ] Data Factory   
+- [ ] SSIS
+- [ ] Hadoop
+- [ ] Spark
+- [ ] HIve
+- [ ] Databricks
+- [ ] Bitbucket
+- [ ] UIpath
+- [ ] BluePrims
+- [ ] Automation Anywhere
+- [ ] SDD/PDD
+- [ ] Windows
+- [ ] Middleware
+- [ ] DataCenter
+- [ ] VMware
+- [ ] Hyper-V
+- [ ] Proxmox
+- [ ] Active Directory
+- [ ] Ansible
+- [ ] Chef
+- [ ] Puppet
+- [ ] Terraform
+- [ ] Bash
+- [ ] Shell
+- [ ] Power Shell
+- [ ] Nagios
+- [ ] Zabbix
+- [ ] Prometheus
+- [ ] Grafana
+- [ ] Dynatrace
+- [ ] Kibana
+- [ ] Cisco
+- [ ] Juniper
+- [ ] OpenNMS
+- [ ] Fortinet
+- [ ] Unity
+- [ ] Veeam
+- [ ] Commvault
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] Oracle Cloud
+- [ ] DevOps
+- [ ] Kubernets
+- [ ] Docker
+- [ ] Mainframe
+- [ ] QRadar
+- [ ] Splunk
+- [ ] Elastic Search
+- [ ] Active Directory
+- [ ] Keycloak
+- [ ] SIEM
+- [ ] IAM
+- [ ] CIAM
+- [ ] ServiceNow
+- [ ] Proxy
+- [ ] Vision Plu
+- [ ] FEPweb
+
+Currículo:
