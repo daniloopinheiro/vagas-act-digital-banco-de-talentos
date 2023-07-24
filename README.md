@@ -5,9 +5,13 @@
 ---
 
 Nome Completo:
+
 E-mail:
+
 Telefone:
+
 Linkedin:
+
 Principal Comp. Téc.
 
 - [ ] 1. Backend Java
